@@ -1,0 +1,3 @@
+[submodule "po/fuego"]
+	path = po/fuego
+	url = git@github.com:tzabian/fuego-locale.git
